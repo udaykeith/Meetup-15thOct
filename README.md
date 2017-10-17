@@ -1,6 +1,6 @@
 # Meetup-15thOct
 
-*The repository include code which was used during the "Python for Fintech" at Byte Academy of October 15th. There are 6.py files and one bash file. Below are brief descriptions for the code in each file - detailed descriptions are given in comments in each file. The broad scope of the meetup was to understand how to use the Markit API and stream live stock data into a SQL database.*
+*This repository includes code which was used during the "Python for Fintech" at Byte Academy on October 15th. There are six .py files and one bash file. Below are brief descriptions for the code in each file - detailed descriptions are given in comments in each file. The broad scope of the meetup was to understand how to use the Markit API and stream live stock data into a SQL database.*
 
 **Description of files**:
 1) run.sh - bash file for running the entire program. Run using "./run.sh" on terminal/command prompt
